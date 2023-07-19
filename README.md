@@ -13,6 +13,7 @@ Dashboard
 
 
 **Teacher Management**
+
 Add Teacher
 View Teacher
 
