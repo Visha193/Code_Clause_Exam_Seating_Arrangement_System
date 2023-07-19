@@ -13,7 +13,6 @@ Dashboard
 
 
 **Teacher Management**
-
 Add Teacher
 View Teacher
 
@@ -48,8 +47,13 @@ USERS
 **User Management**
 User Permissions
 Settings
+
+
 **Appearance Management**
+
+
 **Email Management**
+
 **Report Management**
 Today's Exam
 Exam Report
