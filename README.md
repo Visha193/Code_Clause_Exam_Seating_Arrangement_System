@@ -10,18 +10,28 @@ This is very useful for colleges whereas it can generate a report that concerned
 The system has a feature that generates a report automatically during exams at the end of the session or in between the session.
 The major modules in this application are,
 Dashboard
+
+
 **Teacher Management**
 Add Teacher
 View Teacher
+
+
 **Student Management**
 Add Student
 View Student
+
+
 **Subject Management**
 Add Subject
 View Subject
+
+
 **Class Management**
 Add Class
 View Class
+
+
 **Exam Management**
 Add Room Type
 View Room Type
@@ -31,6 +41,8 @@ Add Exam
 View Exam
 Add Allotment
 View Allotment
+
+
 USERS
 **User Management**
 User Permissions
@@ -40,20 +52,26 @@ Settings
 **Report Management**
 Today's Exam
 Exam Report
+
+
 # SYSTEM SPECIFICATIONS
 **HARDWARE REQUIREMENTS**
 PROCESSOR: INTEL CORE I3
 RAM: 4GB
 HDD: 1TB
 MONITOR: 15” COLOR MONITOR
+
+
 **SOFTWARE REQUIREMENTS**
 FRONT END: HTML, CSS
 BACK END: PHP, SQL
 OPERATION SYSTEM: WINDOWS 7
 IDE: XAMPP SERVER
 
+
 **How to Run**
 Requirements
+
 
 Download and Install any local web server such as XAMPP/WAMP.
 Download the provided source code zip file. (download button is located below)
@@ -77,9 +95,13 @@ For Teachers: http://localhost/ehms-full-source-code/Source Code/teacher.php
 Email: Vishal12kl@gmail.com
 Password: admin
 
+
+
 **Student Access Information:**
 Email: VanshikaMadnawat@gmail.com
 Password: Vanshika
+
+
 
 **Teacher Access Information:**
 Email: ShivamTiwari@gmail.com
