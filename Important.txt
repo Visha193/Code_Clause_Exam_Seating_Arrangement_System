@@ -1,0 +1,14 @@
+                                               **How To Login Admin Panel** 
+
+                                              User: Vishal12kl@gmail.com
+                                              Password: admin
+
+                                              **How To Login Student Panel** 
+
+                                              User: VanshikaMadnawat@gmail.com
+                                              Password: Vanshika     
+       
+                                               **How To Login Teacher Panel** 
+
+                                              User: ShivamTiwari@gmail.com
+                                              Password: ShivamTiwari
